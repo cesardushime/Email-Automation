@@ -1,7 +1,3 @@
-I'd be glad to help you craft a READMe description for your Python code using GitHub markdown, while keeping sensitive information hidden:
-
-**Here's the READMe description:**
-
 **Python Email Sending Script**
 
 This script demonstrates how to send an email using Python's `smtplib` and `email` modules. It utilizes a secure connection with SSL for enhanced security.
